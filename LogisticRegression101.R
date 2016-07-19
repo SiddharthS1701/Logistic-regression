@@ -4,7 +4,7 @@
 
 # set the working directory
 # -------------------------
-setwd("C:/Users/siddharth.s/Desktop/MSU work/01.Logistic regression/MSU directory")
+setwd("C:/Users/siddharth.s/Desktop/01.Logistic regression/directory")
 
 # check the working directory
 # ---------------------------
